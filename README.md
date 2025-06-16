@@ -36,3 +36,6 @@ Uses:
 - Tkinter (GUI)
 - yfinance (stock data)
 - Matplotlib (charts)
+
+---
+🛠️ *Created with the help of AI tools (ChatGPT) to explore finance, automation, and GUI programming in Python.*
